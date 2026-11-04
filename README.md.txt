@@ -1,1 +1,0 @@
-smart hire performance scripts i have added the Authentication and List views
